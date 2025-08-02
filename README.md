@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Student passionate about web development and modern JavaScript frameworks.
+- 🎓 Student passionate about fulll stack development and modern JavaScript frameworks.
 - 🚀 Building full-stack apps with **React**, **MERN**, **Next.js**, **TypeScript**, and **PostgreSQL**.
 - 💡 Always learning, always coding.
 
