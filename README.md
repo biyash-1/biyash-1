@@ -33,10 +33,10 @@ A modern social media platform built with **Next.js**, **TypeScript**, and **Pos
 ### 🛠️ Top Skills
 
 - React, Next.js, MERN Stack  
-- TypeScript, JavaScript (ES6+)
+- TypeScript, JavaScript (ES6+), vuejs
 - PostgreSQL, MongoDB
 - Node.js, Express
-
+-docker
 ---
 
 ### 📊 GitHub Stats
