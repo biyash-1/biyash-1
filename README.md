@@ -39,9 +39,9 @@
 | Project | Description | Links |
 |---------|-------------|-------|
 | **Netlinker (Social Media App)** | Social media with real-time messaging, likes, comments, and follows. | [Repo](https://github.com/biyash-1/Netlinker) · [Live](https://netlinker-woad.vercel.app/) |
-| **Food Delivery Site** | Full-stack food ordering platform with cart & checkout system. | Repo · Live |
-| **Expense Tracker** | Track daily expenses with categories and charts. | Repo · Live |
-| **Real-time Chat App** | Instant messaging app built with **Socket.io** & **React**. | Repo · Live |
+| **Food Delivery Site** | Full-stack food ordering platform with cart & checkout system. | [Repo](https://github.com/biyash-1/resturant_frontend) · [Live](https://resturant-frontend-seven.vercel.app/) |
+| **Expense Tracker** | Track daily expenses with categories and charts. | [Repo](https://github.com/biyash-1/Expense-tracker-application) · [Live](https://expense-tracker-application-16vn.vercel.app/) |
+| **Real-time Chat App** | Instant messaging app built with **Socket.io** & **React**. | [Repo](https://github.com/biyash-1/Real_time-chat-app) · [Live](https://real-time-chat-app-bay.vercel.app/) |
 
 ---
 
@@ -70,7 +70,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=biyash-1&show_icons=true&theme=dark&hide_border=true" alt="Biyash's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=biyash-1&theme=dark&hide_border=true" alt="Biyash's GitHub streak" />
 </p>
-
 
 ---
 
